@@ -6,6 +6,8 @@
 
 **E-mail:** thiago.traue@uni9.pro.br
 
+**LINK DO CLASSROOM:** EM BREVE
+
 ---
 
 ## Preparação do ambiente de desenvolvimento

@@ -6,7 +6,7 @@
 
 **E-mail:** thiago.traue@uni9.pro.br
 
-**LINK DO CLASSROOM:** EM BREVE
+**Link do Classroom:** EM BREVE
 
 ---
 

@@ -41,5 +41,7 @@ Utilizaremos linguagens como Java, PHP, Python e outras para criação dos proje
 - [Head First Java, 3rd Edition](https://learning.oreilly.com/library/view/head-first-java/9781492091646/)
 - [Java for Beginners: Your Easy Guide to Java Programming](https://learning.oreilly.com/videos/java-for-beginners/9781803249629/)
 
+Não deixem de consultar, também, demais títulos disponíveis nos catálogos que temos acesso através do acervo da Uninove (Pearson, O'Reilly, e-volution, editora Uninove etc.)
+
 
 

@@ -32,3 +32,14 @@ Utilizaremos linguagens como Java, PHP, Python e outras para criação dos proje
   - [Código fonte TV](https://www.youtube.com/@codigofontetv)
 
 ## Bibliografia
+
+- Código Limpo, Robert Cecil Martin
+- O Programador Pragmático: De Aprendiz a Mestre, Thomas David
+- Programação orientada a objetos com JAVA sem mistérios, Teruel, E - Disponível no catálogo da Editora Uninove (dentro da central do aluno)
+- [Java: como programar](https://plataforma.bvirtual.com.br/Acervo/Publicacao/39590), Deitel
+- [Java Programming for Complete Beginners](https://learning.oreilly.com/videos/java-programming-for/9781838556976/)
+- [Head First Java, 3rd Edition](https://learning.oreilly.com/library/view/head-first-java/9781492091646/)
+- [Java for Beginners: Your Easy Guide to Java Programming](https://learning.oreilly.com/videos/java-for-beginners/9781803249629/)
+
+
+
